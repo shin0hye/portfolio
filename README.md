@@ -11,9 +11,9 @@ portfolio
 
 
 ## 하이퍼링크
-[Github - 깃 허브](http://github.com)
-[Github for mac - 깃 허브 도구 (맥용)](http://mac.github.com)
-[Github for mac - 깃 허브 도구 (윈도우용)](http://windows.github.com)
+* [Github - 깃 허브](http://github.com)
+* [Github for mac - 깃 허브 도구 (맥용)](http://mac.github.com)
+* [Github for mac - 깃 허브 도구 (윈도우용)](http://windows.github.com)
 
 ## 목록
 * 호옹홍홍
